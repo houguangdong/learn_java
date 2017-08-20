@@ -1,0 +1,10 @@
+1byte 2short 3int 4long 5float 6double
+7boolean 8char 9true 10false 11new 12null
+13class 14interface 15enum 16abstract 17extends
+18implements 19strictfp 20void 21return 22if
+23else 24switch 25case 26default 27break 28continue
+29for 30goto 31const 32assert 33try 34catch 35finally
+36throw 37throws 38do 39 while 40public 41protected
+42private 43package 44import 45transient 46instanceof
+47native 48static 49this 50super 51final 
+52synchronized  53volatile
